@@ -4,3 +4,4 @@ This is the repository for the risk management project:
 
 ### [TO DO List]:
 1. create synthetic data set
+2. create an ML model
